@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Style", "Style\Style.csproj", "{443D1F29-2B04-44F6-9F5C-10D1967401CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateInspect", "TemplateInspect\TemplateInspect.csproj", "{710925B5-3D2A-4639-AA94-2947570CCFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlConnection", "MsSqlConnection\MsSqlConnection.csproj", "{47ADB4E6-C202-4104-9D97-4DC806ACDF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreSqlConnection", "PostgreSqlConnection\PostgreSqlConnection.csproj", "{B4196E9D-F3BE-44F9-88E8-7190A0D82891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443D1F29-2B04-44F6-9F5C-10D1967401CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443D1F29-2B04-44F6-9F5C-10D1967401CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443D1F29-2B04-44F6-9F5C-10D1967401CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443D1F29-2B04-44F6-9F5C-10D1967401CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710925B5-3D2A-4639-AA94-2947570CCFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710925B5-3D2A-4639-AA94-2947570CCFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710925B5-3D2A-4639-AA94-2947570CCFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710925B5-3D2A-4639-AA94-2947570CCFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ADB4E6-C202-4104-9D97-4DC806ACDF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ADB4E6-C202-4104-9D97-4DC806ACDF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ADB4E6-C202-4104-9D97-4DC806ACDF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ADB4E6-C202-4104-9D97-4DC806ACDF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4196E9D-F3BE-44F9-88E8-7190A0D82891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4196E9D-F3BE-44F9-88E8-7190A0D82891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4196E9D-F3BE-44F9-88E8-7190A0D82891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4196E9D-F3BE-44F9-88E8-7190A0D82891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A893F3-22A3-4348-8960-40424283066C}
+	EndGlobalSection
+EndGlobal
